@@ -1,1 +1,1 @@
-print('CHANGER 001')
+print('001')
